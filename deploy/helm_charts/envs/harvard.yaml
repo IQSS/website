@@ -6,7 +6,7 @@ namespace:
 website:
   image:
     project: iqss-gdc
-    tag: d868748
+    tag: 9ecb430
   flaskEnv: custom
 mixer:
   useBranchBigtable: false
